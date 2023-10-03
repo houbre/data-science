@@ -1,2 +1,4 @@
 # data-science
-Projects and assignments from my data science class
+
+Assignments and projects from my data science class at McGill University.
+The class was taught by Derek Ruths.
