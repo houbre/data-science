@@ -8,8 +8,8 @@ the output file is optional. No output argument and lines are printed on the ter
 
 The output will be printed in the follwing csv format:
     complaint type, borough, count
-	derelict vehicles, Queens, 236
-	derelict vehicles, Bronx, 421
+    derelict vehicles, Queens, 236
+    derelict vehicles, Bronx, 421
                 .
                 .
                 .
