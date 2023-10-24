@@ -1,8 +1,9 @@
 This homework covers data collection using web APIs.
 
 Using the News API available at newsapi.org , the goal of this assignemnt was to create a top-level python package containing the following:
-	-> newsapi.py : 
-        Fetches the latest news with the function 'fetch_latest_news(api_key, news_keywords, lookback_days=10)' which
+	
+ -> newsapi.py : 
+ 	Fetches the latest news with the function 'fetch_latest_news(api_key, news_keywords, lookback_days=10)' which
         which queries the NewsAPI and returns a python list of english news articles (represented as dictionaries) 
         containing those news keywords and published within the last <lookback_days>.
 
