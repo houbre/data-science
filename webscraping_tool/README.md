@@ -2,4 +2,4 @@ Data scraping tool using the BeautifulSoup library to scrape the top 5 trending 
 
 From the webscraping_tool directory, collect_trending.py is called like so:
  
-  -> python collect_trending.py -o out.json 
+  $ python collect_trending.py -o out.json 
