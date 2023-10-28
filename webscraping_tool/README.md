@@ -1,4 +1,4 @@
-Data scraping tool that scrapes the top 5 trending articles from the homepage of the Montreal Gazette (https://montrealgazette.com/category/news/), pulls out the title, publication date, author and blurb and formats these into a json file of the format:
+Data scraping tool that scrapes the top 5 trending articles from the homepage of the Montreal Gazette (https://montrealgazette.com/category/news/), pulls out the title, publication date, author and blurb and outputs these into a json file of the following format:
 
  [
   {
